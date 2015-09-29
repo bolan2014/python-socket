@@ -4,7 +4,7 @@ First, run the service of server.py.
 $ python server.py
 </pre>
 
-Next, open a new terminal, and run client.py.
+Second, open a new terminal, and run client.py.
 <pre>
 $ python client.py
 </pre>
